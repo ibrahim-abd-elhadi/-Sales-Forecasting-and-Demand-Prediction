@@ -1,0 +1,5 @@
+--for Corporación Favorita Grocery Sales Forecasting dataset
+Kaggle API: kaggle competitions download -c favorita-grocery-sales-forecasting
+Kaggle link:https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data
+
+-------------------------------------------------------------------------------------------
